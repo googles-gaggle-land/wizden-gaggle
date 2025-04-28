@@ -49,6 +49,7 @@
       - FoodBakedChevreChaud
       - FoodBakedNugget
       - FoodTacoShell
+      - FoodHotDog # gaggle
     chance: 0.8
     offset: 0.0
     #rare
@@ -67,5 +68,4 @@
       - FoodBurgerCrazy
       - FoodPizzaArnoldSlice
       - FoodPizzaUraniumSlice
-      - FoodPizzaWorldpeasSlice
     rareChance: 0.05
